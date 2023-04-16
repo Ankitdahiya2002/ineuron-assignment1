@@ -1,0 +1,61 @@
+Q1=
+* is multiplication arithmetic operator
+
+'Hello' is a string
+
+-87.8 is a float number
+
+- is subtraction arithmetic operator
+
+/ is division operator
+
++ is addition operator 
+
+6 is an integer
+
+Q2= VARIABLE----->
+variable contain the memory address of the value in python. In c++ it contain the address of the variable of the value.
+Eg-->.  a=10.   Here a is variable and 10 is value.
+
+STRING--->
+String is a collection of the characters. String always start and end with quotes. E.g-> "hello" is a string, 'h' is a character.
+
+
+Q3= 
+data types are numeric(int, float, complex numbers), sequence(string, list, tuple),
+Set, dictionary.
+
+
+Q4=
+An expression is a combination of values, variables, operators,operands,  and calls to functions. Expressions need to be evaluated.
+ x = x + 1 0 x = x + 10 x=x+10
+
+
+Q5=
+An expression evaluates to a single value. A statement does not.
+
+
+Q6=
+ans=23
+
+Q7=
+'spam'+'spamspam'='spamspamspam'
+
+'spam'*3='spamspamspam'
+
+Q8=
+Egg is variable because variable name never be start with a number i.e 100.
+
+Q9=
+The int() , float() , and str( ) functions will help to get the integer, float and string.
+
+Q10=
+
+The expression causes an error because 99 is an integer, and only strings can be concatenated to other strings with the + operator. The correct way is 'I have eaten ' + str(99) + ' burritos.'.
+
+
+
+
+
+
+
