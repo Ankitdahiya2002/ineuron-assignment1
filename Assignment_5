@@ -1,5 +1,5 @@
 Q1=
-Two curly brackets: {}
+ curly brackets: {}
 
 Q2=
 {'foo': 42}
@@ -8,7 +8,7 @@ Q3=
 The items stored in a dictionary are unordered, while the items in a list are ordered.
 
 Q4=
-You get a KeyError error.
+You get a KeyError .
 
 Q5=
 There is no difference. The in operator checks whether a value exists as a key in the dictionary.
